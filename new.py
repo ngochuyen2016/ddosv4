@@ -164,7 +164,7 @@ def LaunchSTELLAR(url, timer):
 if __name__ == '__main__':
     init(convert=True)
     if len(sys.argv) < 2:
-        ua = open('./resources/ua.txt', 'r').read().split('\n')
+        ua = open('./ua.txt', 'r').read().split('\n')
         title()
         while True:
             command()
