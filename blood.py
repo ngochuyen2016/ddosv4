@@ -1606,7 +1606,7 @@ def printf(txt, delay=0, end='\n', flush=True):
 
 def inputf():
     printf(Colorate.Vertical(Colors.purple_to_red, '''
-  ╔═══[root@hammer]
+  ╔═══[root@]
   ╚══> ''', True), end=' ')
     
     return input().strip().lower()
