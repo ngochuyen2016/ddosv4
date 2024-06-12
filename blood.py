@@ -5,7 +5,7 @@
   ━━━━━━━┛ ✠ ┗━━━━━━━━
   
          Author:
-        @jc_lifemiles
+        NÔNG MINH QUÂN 
   
   ━━━━━━━┓ ✠ ┏━━━━━━━━
   ┷━━━━━━━━▧▣▧━━━━━━━━┷
@@ -1637,7 +1637,7 @@ def welcome():
       ➡ methods              |         ddos methods
       ➡ credits              |         information
   
-                https://boosty.to/lifemiles
+                      BY NÔNG MINH QUÂN 
                            
     ╠═════════╦══════════════$══════════════════╦═════════╣
            ╦══╩═════════════════════════════════╩══╦
@@ -1660,13 +1660,12 @@ def welcome():
              ╩══╦══════════════0══════════════════╦══╩
       ╔═════════╩═════════════════════════════════╩═════════╗
     
-        ➡ coder                :       @MUQES & @jc_lifemiles
-        ➡ idea                 :     @JuicexNet & @AuraNetz
-        ➡ team                 :       CHPONK SQUAD
-        ➡ support              :        @AuraNetz
-        ➡ thanks               :      #MatrixTM & #MHDDoS
+        ➡ coder                :       BY NÔNG MINH QUÂN 
+        ➡ idea                 :         Nông Minh Quân 
+        ➡ support              :        @Minh_Quan0325132113
+        ➡ thanks               :             #MHDDoS
     
-                    https://boosty.to/lifemiles
+                       BY NÔNG MINH QUÂN 
                              
       ╠═════════╦══════════════$══════════════════╦═════════╣
              ╦══╩═════════════════════════════════╩══╦
