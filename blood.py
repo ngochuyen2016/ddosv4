@@ -1634,7 +1634,7 @@ def welcome():
       ➡ methods              |         ddos methods
       ➡ credits              |         information
   
-                BY NÔNG MINH QUÂN 
+                     BY NÔNG MINH QUÂN 
                            
     ╠═════════╦══════════════$══════════════════╦═════════╣
            ╦══╩═════════════════════════════════╩══╦
@@ -1662,8 +1662,8 @@ def welcome():
         ➡ support              :       @Minh_Quan_CB
         ➡ thanks               :      #MatrixTM & #MHDDoS
     
-                       BY NÔNG MINH QUÂN 
-                             
+                         BY NÔNG MINH QUÂN 
+                              
       ╠═════════╦══════════════$══════════════════╦═════════╣
              ╦══╩═════════════════════════════════╩══╦
       '''), True), end='')
