@@ -1976,7 +1976,7 @@ if __name__ == '__main__':
             "Method: cfb, pxcfb, cfreq, cfsoc, pxsky, sky, get, post, head, soc, pxraw, pxsoc\n")
         stdout.write(f"usage:~# python3 {sys.argv[0]} <method> <target> <thread> <time>\n")
         sys.exit()
-    ua = open('./resources/ua.txt', 'r').read().split('\n')
+    ua = open('./ua.txt', 'r').read().split('\n')
     method = sys.argv[1].rstrip()
     target = sys.argv[2].rstrip()
     thread = sys.argv[3].rstrip()
