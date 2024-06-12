@@ -1,50 +1,4 @@
 <div align=center>
-# SOMITIMES DELETED
-
- 
- 
- 
- 
- 
- 
- # Blood Deluxe DDoS
-
- DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, BFM, etc..)(It works intermittently. Working on it)<br/><br/>
- Don't attack any websites you don't own it<br/>
- This was created for educational purposes<br/>
- All responsibilities and disadvantages of using this program is for the user.<br/>
-
-!!!!!!The author is not responsible for the actions of users who use this script!!!!!!<br/><br/>
-!!!!!!Автор не несёт ответственности за действия пользователей, которые используют этот скрипт.!!!!!!<br/>
- 
- To help the author: ltc1qgrj22jysxmvkv2guv0pcn8ea4kvdwmpdcu4w87  | LTC<br/>
-</br>
-Or https://boosty.to/lifemiles
-## Language</br>
-
- <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
-</div>
-
-## Menu
-![image](https://user-images.githubusercontent.com/96767456/167305588-8049db11-64d1-43e2-908e-ac05724a0e3b.png)
-
-
-## RULES
-
-```sh
-ENG:
-1. Don't attack any websites you don't own it!
-2. Do not use the script with the intention of hurting someone!
-3. The script was created for educational purposes and to test the security of the site in critical situations for SYSTEM ADMINISTRATORS!
-I AM NOT RESPONSIBLE FOR YOUR ACTIONS!
-=====
-RUS:
-1. Не атакуйте сайты, которые вам не принадлежат!
-2. Не используйте скрипт с намерением навредить кому-либо!
-3. Скрипт был создан в образовательных целях и для тестирования сайта на безопасность(бесперебойную работу в критических ситуациях) ДЛЯ СИСТЕМНЫХ АДМИНИСТРАТОРОВ!
-Я НЕ НЕСУ ОТВЕСТВЕННОСТИ ЗА ВАШИ ДЕЙСТВИЯ!
-```
-
 
 ## Methods
 
@@ -94,7 +48,7 @@ To be deleted or replaced
 ```sh
 You must use Python 3.9 or higher
 
-git clone https://github.com/firstapostle/Blood.git
+git clone https://github.com/ngochuyen2016/ddosv4
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
@@ -109,10 +63,8 @@ OR
 ```
 ## Usage on Windows
 ```sh
-Install python - https://www.python.org
-Install Git - https://gitforwindows.org (instruction in telegram-channel. contact @AuraNetz or @CyberEducational or @MiraiLove )
 
-git clone https://github.com/firstapostle/Blood
+git clone https://github.com/ngochuyen2016/ddosv4
 cd Blood
 python3 setup.py / py setup.py
 Нажимаем 1
@@ -133,7 +85,7 @@ pkg install wget
 pkg install rust
 pip install supertools wheel
 pip install shutup
-git clone https://github.com/firstapostle/Blood
+git clone https://github.com/ngochuyen2016/ddosv4
 cd Blood
 export CARGO_BUILD_TARGET=aarch64-linux-android && python3 -m pip install cryptography
 export CARGO_BUILD_TARGET==aarch64-linux-android && python3 -m pip install -r requirements.txt
@@ -149,23 +101,6 @@ python3 blood.py
 Use DDoS Panel   : python3 blood.py
 Use command line : python3 blood.py <method> <target> <thread> <time>
       └──────────> python3 blood.py cfb https://example.com 100 30
-```
-
-## Contact Developer
-```sh
- tg - @lifemiles
- ds - lifemiles#1960
-```
-
-
-## My messages
-
-
-```sh
-
-
-
-```
 
 
 
